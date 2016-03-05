@@ -1,1 +1,3 @@
-this repo only exists as bug tracker
+# RhinoCe
+
+#### A smart and lightweight code editor
